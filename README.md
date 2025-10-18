@@ -1,4 +1,3 @@
-[README_AutoBlock_FortiGate.md](https://github.com/user-attachments/files/22984470/README_AutoBlock_FortiGate.md)
 # 🧱 Auto-Block PoC — Bloqueio Dinâmico de IPs para FortiGate  
 ### Syslog + Bash + Python + Nginx + Systemd
 
