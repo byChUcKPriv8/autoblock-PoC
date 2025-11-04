@@ -209,8 +209,8 @@ ABUSEIPDB_KEY=chave_aqui  # se usar enrich
 
 ## 📜 Licença / Créditos
 
-Projeto desenvolvido por **Lucas Alex**  
-💼 Profissional de Infraestrutura e Segurança • entusiasta de automação e observabilidade  
+Projeto desenvolvido por **Lucas Eziquiel**  
+💼 Analista de Infraestrutura e Segurança • entusiasta de automação e observabilidade  
 
 Este PoC é de uso livre para estudo e aprimoramento de processos de segurança de rede.  
 Contribuições, melhorias e forks são bem-vindos.
